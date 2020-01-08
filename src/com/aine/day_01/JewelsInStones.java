@@ -16,6 +16,7 @@ public class JewelsInStones {
 		char b[] = S.toCharArray();
 		for (int i : a) {
 			for (int j : b) {
+				
 				if (i == j) {
 					
 					gens++;
