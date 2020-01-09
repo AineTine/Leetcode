@@ -1,5 +1,6 @@
 package com.aine.day_01;
-
+//宝石
+//根据J字符串判断S字符串中存在多少个相同字符
 public class JewelsInStones {
 
 	public static void main(String[] args) {
@@ -24,10 +25,6 @@ public class JewelsInStones {
 				
 			}
 		}
-
-		
-		
 		return gens;
 	}
-
 }
